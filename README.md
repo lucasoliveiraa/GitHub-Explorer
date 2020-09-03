@@ -2,10 +2,6 @@
   <img width=400px height=200px src="./src/assets/logo.svg" alt="GitHub Explorer logo"></a>
 </p>
 
-<h1 align="center">
-GitHub Explorer
-</h1>
-
 <p align="center">
   <img src="./src/assets/gif/github.gif"  alt="demo-web" heigth="425" />
 </p>
